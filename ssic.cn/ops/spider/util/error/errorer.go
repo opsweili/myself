@@ -1,3 +1,6 @@
 package error
 
-func PrintMessage()
+// PrintMessage demo
+func PrintMessage() {
+
+}
