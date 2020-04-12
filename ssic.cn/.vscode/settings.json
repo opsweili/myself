@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "go.testFlags": ["-v"], 
+    "go.delveConfig": {
+
+    }
+
+   
+   
+}
